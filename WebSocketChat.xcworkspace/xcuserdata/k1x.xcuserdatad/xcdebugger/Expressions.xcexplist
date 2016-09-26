@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MasterViewController.(viewDidLoad() -&gt; ()).(closure #3):MasterViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Command.init(json : [String : Any]) -&gt; Command?:Entities.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateFormatter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
