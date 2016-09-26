@@ -107,7 +107,7 @@ class MasterViewController: UIViewController, UITableViewDelegate, UITableViewDa
     
     func sendMessage() {
         var dictionary = [String : String]();
-        dictionary["author"] = "Android Test";
+        dictionary["author"] = "iOS Test";
         dictionary["message"] = textField.text!;
         
         socket.emit("message", with: [dictionary]);
